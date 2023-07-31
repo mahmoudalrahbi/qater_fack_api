@@ -1,0 +1,28 @@
+{
+  "mosques": [
+    {
+      "id": 1,
+      "name": "Al-Masjid Al-Haram1",
+      "location": {
+        "latitude": 22.980816,
+        "longitude": 58.522305
+      }
+    },
+    {
+      "id": 2,
+      "name": "Al-Masjid Al-Haram2",
+      "location": {
+        "latitude": 23.609522,
+        "longitude": 58.182936
+      }
+    },
+    {
+      "id": 3,
+      "name": "Al-Masjid Al-Haram3",
+      "location": {
+        "latitude": 23.611445,
+        "longitude": 58.522305
+      }
+    }
+  ]
+}

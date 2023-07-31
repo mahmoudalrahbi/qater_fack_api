@@ -1,0 +1,230 @@
+{
+  "mosques": [
+    {
+      "id": 1,
+      "name": "Al-Masjid Al-Haram1",
+      "location": {
+        "latitude": 22.980816,
+        "longitude": 58.522305
+      }
+    },
+    {
+      "id": 6,
+      "name": "Al-Masjid Al-Haram6",
+      "location": {
+        "latitude": 25.980816,
+        "longitude": 58.522305
+      }
+    },
+    {
+      "id": 2,
+      "name": "Al-Masjid Al-Haram2",
+      "location": {
+        "latitude": 23.609522,
+        "longitude": 58.182936
+      }
+    },
+    {
+      "id": 3,
+      "name": "Al-Masjid Al-Haram3",
+      "location": {
+        "latitude": 23.611445,
+        "longitude": 58.522305
+      }
+    },
+    {
+      "id": 4,
+      "name": "Al-Masjid Al-Haram4",
+      "location": {
+        "latitude": 23.555455,
+        "longitude": 58.522355
+      }
+    },
+    {
+      "id": 5,
+      "name": "Al-Masjid Al-Haram5",
+      "location": {
+        "latitude": 23.655555,
+        "longitude": 59.555555
+      }
+    }
+  ],
+  "orders": [
+    {
+      "mosque": {
+        "id": 1,
+        "name": "Al-Masjid Al-Haram1",
+        "location": {
+          "latitude": 22.980816,
+          "longitude": 58.522305
+        }
+      },
+      "packageNum": 5,
+      "state": "New",
+      "id": 1,
+      "orderDate": "2023-07-29 ",
+      "deliveryDate": null
+    },
+    {
+      "mosque": {
+        "id": 1,
+        "name": "Al-Masjid Al-Haram1",
+        "location": {
+          "latitude": 22.980816,
+          "longitude": 58.522305
+        }
+      },
+      "packageNum": 10,
+      "state": "New",
+      "id": 2,
+      "orderDate": "2023-07-29 ",
+      "deliveryDate": null
+    },
+    {
+      "mosque": {
+        "id": 5,
+        "name": "Al-Masjid Al-Haram5",
+        "location": {
+          "latitude": 23.655555,
+          "longitude": 59.555555
+        }
+      },
+      "packageNum": 8,
+      "state": "New",
+      "id": 3,
+      "orderDate": "2023-07-29 ",
+      "deliveryDate": null
+    },
+    {
+      "mosque": {
+        "id": 1,
+        "name": "Al-Masjid Al-Haram1",
+        "location": {
+          "latitude": 22.980816,
+          "longitude": 58.522305
+        }
+      },
+      "packageNum": 9,
+      "state": "New",
+      "id": 4,
+      "orderDate": "2023-07-29 ",
+      "deliveryDate": null
+    },
+    {
+      "mosque": {
+        "id": 5,
+        "name": "Al-Masjid Al-Haram5",
+        "location": {
+          "latitude": 23.655555,
+          "longitude": 59.555555
+        }
+      },
+      "packageNum": 7,
+      "state": "New",
+      "id": 5,
+      "orderDate": "2023-07-29 ",
+      "deliveryDate": null
+    },
+    {
+      "mosque": {
+        "id": 1,
+        "name": "Al-Masjid Al-Haram1",
+        "location": {
+          "latitude": 22.980816,
+          "longitude": 58.522305
+        }
+      },
+      "packageNum": 7,
+      "state": "Delivered",
+      "id": 6,
+      "orderDate": "2023-07-29 ",
+      "deliveryDate": "2023-07-30"
+    },
+    {
+      "mosque": {
+        "id": 2,
+        "name": "Al-Masjid Al-Haram2",
+        "location": {
+          "latitude": 23.609522,
+          "longitude": 58.182936
+        }
+      },
+      "packageNum": 7,
+      "state": "New",
+      "id": 7,
+      "orderDate": "2023-07-29 ",
+      "deliveryDate": null
+    },
+    {
+      "mosque": {
+        "id": 4,
+        "name": "Al-Masjid Al-Haram4",
+        "location": {
+          "latitude": 23.555455,
+          "longitude": 58.522355
+        }
+      },
+      "packageNum": 7,
+      "state": "New",
+      "id": 8,
+      "orderDate": "2023-07-30 ",
+      "deliveryDate": null
+    },
+    {
+      "mosque": {
+        "id": 2,
+        "name": "Al-Masjid Al-Haram2",
+        "location": {
+          "latitude": 23.609522,
+          "longitude": 58.182936
+        }
+      },
+      "packageNum": 6,
+      "state": "New",
+      "id": 9,
+      "orderDate": "2023-07-30 ",
+      "deliveryDate": null
+    },
+    {
+      "mosque": {
+        "id": 1,
+        "name": "Al-Masjid Al-Haram1",
+        "location": {
+          "latitude": 22.980816,
+          "longitude": 58.522305
+        }
+      },
+      "packageNum": 7,
+      "state": "New",
+      "id": 10,
+      "orderDate": "2023-07-30 ",
+      "deliveryDate": null
+    }
+  ],
+  "new_mosques": [
+    {
+      "name": "dd",
+      "lat": "21.172170975796632",
+      "long": "56.51208970695734",
+      "id": 1
+    },
+    {
+      "name": "fdhh",
+      "lat": "21.315382491753542",
+      "long": "56.04476943612099",
+      "id": 2
+    },
+    {
+      "name": "sdsd",
+      "lat": "22.742893130513615",
+      "long": "57.897188141942024",
+      "id": 3
+    },
+    {
+      "name": "Masjed 1",
+      "lat": "23.24482969826665",
+      "long": "57.918383963406086",
+      "id": 4
+    }
+  ]
+}
