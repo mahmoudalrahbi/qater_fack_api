@@ -8,6 +8,7 @@ json-server --watch db.json
 //run with specfic port
 json-server --watch --port 3004 db.json
 
+json-server --watch --port 8000 db.json
 
 
 
